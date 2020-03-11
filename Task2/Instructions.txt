@@ -1,0 +1,10 @@
+<INSTRUCTIONS>
+  <BODY>
+     1. Part1: Shows the paths of the two lifts 
+     2. Part2: a. Run the Part2a first and provide the port number along with it:  ./<app_name> <PORTNO>
+               b. Enter the lift system details
+               c. Run the Client Part2c after that: ./<app_name_client> <hostname> <PORTNO>
+               d. Enter the data as: 2 U 4 and watch the lifts execute one by one
+  </BODY>
+</INSTRUCTIONS>
+          
