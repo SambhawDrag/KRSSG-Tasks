@@ -303,7 +303,7 @@ int main(int argc,char *argv[])
 			break;
 		}
 		input(&newSocket);
-		cout<<" "<<enter<<" "<<trans<<" "<<out<<endl;
+		//cout<<" "<<enter<<" "<<trans<<" "<<out<<endl;
 	}
 	
 }
