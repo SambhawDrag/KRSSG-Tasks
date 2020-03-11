@@ -23,7 +23,7 @@ Part1:-
 4. source devel/setup.bash
 5. roscd task3
 6. rosrun task3 task3
-7. rosrun turtlesim turtlesim_node in a new terminal. Spawn the turtle at x=  , y=   , theta= 
+7. rosrun turtlesim turtlesim_node in a new terminal. (Spawn the turtle at x=  , y=   , theta=) 
 8. Turtle will now execute the Path
 
 -----Task4-----
